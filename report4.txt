@@ -1,0 +1,2 @@
+The order 0 was placed on day 20
+The order 1 was placed on day 20

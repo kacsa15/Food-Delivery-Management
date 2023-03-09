@@ -1,0 +1,5 @@
+ID: 8
+Username: client
+Date: 2022-06-20
+Time: 17:33
+Total price: 0
